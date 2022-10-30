@@ -40,7 +40,7 @@ This project is created to provide knowledge irrespective of age.
 - GOOGLE SERVICE​
 
 # Description
-In its current form, it can perform only a few tasks, such as adding reminders, shutting down the system, rebooting the system, and searching Google, etc..
+- This system provides a comprehensive way to analyse the health by performing a series of tests and thus by entering their results.We are able to get a clear picture of the health of the body evidently.Usage of high level comparison system for accurate results.The Symptom representing system provide a clarity to the users.Food recommendation system provide the solution to the said problems.​
 
 # Author
 - ARAVIND RAJ N
