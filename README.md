@@ -29,7 +29,7 @@ This project is created to provide knowledge irrespective of age.
 
 - Food recommendation system provide the solution to the said problems.​
 
-​# Hardware Requirements
+# Hardware Requirements
 - MOBILE PHONE​
 - INTERNET CONNECTIVITY ​
 - RAM 4GB​
